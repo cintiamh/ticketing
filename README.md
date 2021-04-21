@@ -1,1 +1,3 @@
-# ticketing
+# Ticketing
+
+## Auth service
